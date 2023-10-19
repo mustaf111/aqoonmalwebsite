@@ -1,0 +1,78 @@
+*{padding: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+nav{
+  background-color: green;
+
+
+}nav li{
+display:inline-block;
+
+
+}
+ul li a{
+color: beige;
+margin: 3px;
+text-decoration: none;
+
+padding: 7px;
+font-size: 30px;
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+outline: none;
+border: none;
+text-decoration: none;
+text-transform: capitalize;
+
+
+}
+body{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+}
+h2{
+  text-align: center;
+  font-family: century;
+  font-size: 40px;
+}
+.container{
+  max-width: 500px;
+  margin: auto;
+padding: 40px;
+  border: 1px solid;
+  margin-top: 12px;
+  
+}
+
+
+
+
+footer{
+background-color: black;
+height: 25vh;
+}
+
+footer h4{
+  color: beige;
+}  
+
+.ciwan{
+font-family: century;
+color: black;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

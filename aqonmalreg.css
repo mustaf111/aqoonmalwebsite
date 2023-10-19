@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+padding: 0px;
+}
+header{
+    background-image: url(download\ \(1\).jpg);
+    height: 100vh;
+}
+body{
+    
+    display: flex;
+    justify-content: center;
+min-height: 100vh;
+    align-items: center;
+    background-image: url(new.jpg);
+   
+
+}
+.main{
+border: 1px solid;
+background-color: rgb(10, 4, 14) ;
+backdrop-filter: blur(20px);
+padding-bottom: 62px;
+padding: 44px;;
+height: 50vh;
+margin: 5px;
+border-radius: 10;
+max-width: 500px;
+margin: auto;
+}
+.main h2{
+    text-align: center;
+    color: antiquewhite;
+    font-family: century;
+    border: 1px solid;
+    border-radius: 20;
+    background-color: rgb(54, 65, 52);
+    margin-bottom: 33px;
+}
+.main .input{
+    margin-top: 50px;
+    backdrop-filter: blur(20px);
+color: antiquewhite;
+
+
+    
+}
+.main input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 7px;
+    padding: 7px;
+
+    
+    color: rgb(8, 36, 61);
+    }
+.main input .placeholder{
+    color: antiquewhite;
+
+}
+    
+}
+.main input:hover{
+    background-color: aliceblue;
+}
+.label1{
+font-size: 32px;
+margin-left: 72px;52
+
+}
+.laabel{
+    margin-left: 52px;
+    font-size: 32px;
+}
+button{
+background-color: rgb(250, 235, 186);
+margin-left: 42px;
+border-radius: 30;
+padding-left: 22px;
+padding-right: 22px;
+}
+button a{
+    text-decoration: none;
+
+}
+button a h5{
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 30;
+    padding-left: 12px;
+}
+
+.main .input2{
+    border: 1px solid;
+    padding-right: 55px;
+    border-radius: 20;
+    
+}
+
+
+
+.main .submit{
+    border: 1px solid;
+    color: rgb(184, 171, 171);
+padding-right: 42px;
+border-radius: 20;
+
+}
+.main .submit:hover{
+    background-color: rgb(176, 207, 140);
+}
